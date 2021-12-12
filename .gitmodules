@@ -1,0 +1,3 @@
+[submodule "quarkengine"]
+	path = quarkengine
+	url = https://github.com/AJ92/quarkengine.git
